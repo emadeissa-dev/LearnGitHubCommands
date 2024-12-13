@@ -10,3 +10,4 @@ Console.WriteLine("Hello, World!");
 // git push => To Push
 // git config --global user.name => get User
 // git config --global user.email => get Email
+// git config --global user.name "changeName"
